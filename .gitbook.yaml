@@ -91,3 +91,7 @@ redirects:
     testnet/testnet-access: networks/testnet/testnet-access.md
     testnet/testnet-nodes: networks/testnet/testnet-nodes.md
     tutorials/hello-world/hfs-files: tutorials/hello-world/README.md
+    tutorials/hello-world/create-fund-account: tutorials/hello-world/setup.md
+    tutorials/hello-world/hts-fungible-token: tutorials/hello-world/hts
+    tutorials/hello-world/hcs-topic: tutorials/hello-world/hcs
+    tutorials/hello-world/hscs-smart-contract: tutorials/hello-world/hscs
